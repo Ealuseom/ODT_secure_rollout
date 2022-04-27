@@ -1,0 +1,7 @@
+Kunde; Lizenzanzahl
+Cunewalde -> 8
+Test -> kjha
+Rofl -> 80
+Chemnitz -> 66
+Dresden -> 15
+Annaberg-Buchholz -> 213
